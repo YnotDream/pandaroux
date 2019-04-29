@@ -1,0 +1,94 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+a {
+    color: white;
+}
+
+.secondary-block {
+    color: white;
+    background-color: rgb(4, 186, 65)
+}
+
+nav {
+    height: 70px;
+}
+
+nav h2 {
+    margin: 0%;
+    float: left;
+    padding: 20px 0px 20px 15px;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 24px;
+    list-style: none;
+    float: left;
+}
+
+nav li {
+    float: left;
+    margin-left: 15px;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+}
+
+header h2  {
+    color: #0475BA;
+}
+
+header img {
+    width: 300px;
+    border-radius: 75px;
+    box-shadow: 3px 3px 6px #AAA;
+}
+
+section {
+    padding: 40px;
+}
+
+#xp ul {
+    margin: 0%;
+    padding: 0px;
+    list-style: none;
+}
+
+#xp li {
+    padding: 10px;
+}
+
+#xp aside {
+    float: right;
+}
+
+#training aside {
+    float: right;
+}
+
+footer {
+    height: 50px;
+    padding: 25px;
+}
+
+footer ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    float: left;
+    display: inline-block;
+}
+
+.links aside {
+    float: right;
+}
